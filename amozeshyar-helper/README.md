@@ -1,10 +1,13 @@
 # Amozeshyar-Helper
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amirrezap/amirrezap.github.io/main/amozeshyar-helper/assets/header.png"/>
+</p>
+
 Amozeshyar helper is a Google Chrome / Microsoft Edge extention that allows you to simply type the course name into Amozeshyar search inputs without having to type them with those weird percent signs (%). Check out the GIF below:
 
-![](https://raw.githubusercontent.com/amirrezap/amirrezap.github.io/main/./assets/amozeshyar-helper.gif)
+![](https://raw.githubusercontent.com/amirrezap/amirrezap.github.io/main/amozeshyar-helper/assets/amozeshyar-helper.gif)
 
-✨Magic ✨
 
 ## Features
 
