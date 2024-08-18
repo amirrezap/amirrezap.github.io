@@ -19,6 +19,6 @@ Amozeshyar Helper is an extension that allows you to simply type the course name
 - Automatically convert course codes and captchas to Latin digits (so you can almost eliminate the need to switch the keyboard from Persian to English)
 - Change "items per page" to your desired value (no longer need to manually change it every time the page is refreshed)
 - Select all radio options at once on the "ارزشیابی اساتید" page
-  - ![](https://raw.githubusercontent.com/amirrezap/amirrezap.github.io/main/amozeshyar-helper/assets/studentProffEvaluation.gif =600x)
+  - ![](https://raw.githubusercontent.com/amirrezap/amirrezap.github.io/main/amozeshyar-helper/assets/studentProffEvaluation.gif)
 - Lightweight and fast
 - Open source
