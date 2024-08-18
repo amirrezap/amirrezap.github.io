@@ -5,18 +5,20 @@
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/amirrezap/amirrezap.github.io/main/amozeshyar-helper/amozeshyar-helper.crx">Download For Google Chrome</a> | <a href="https://raw.githubusercontent.com/amirrezap/amirrezap.github.io/main/amozeshyar-helper/amozeshyar-helper.crx">Download For Microsoft Edge</a>
+  <a href="https://raw.githubusercontent.com/amirrezap/amirrezap.github.io/main/amozeshyar-helper/amozeshyar-helper.crx">Download For Opera</a>
 </p>
 
-Amozeshyar helper is a Google Chrome / Microsoft Edge extention that allows you to simply type the course name into Amozeshyar search inputs without having to type them with those weird percent signs (%). Check out the GIF below:
+Amozeshyar Helper is an extension that allows you to simply type the course name into Amozeshyar search inputs without having to use those weird percent signs (%). Check out the GIF below:
 
 ![](https://raw.githubusercontent.com/amirrezap/amirrezap.github.io/main/amozeshyar-helper/assets/amozeshyar-helper.gif)
 
 
 ## Features
 
-- Convert course names instantly, like: هوش مصنوعی to %هوش%مصنوع%%
-- Convert course codes and captchas to latin digits automatically (So you almost get rid of switching keyboard from Persian to English)
-- Change the "items per page" to your desired value (You no longer need to manually change it every time the page is refreshed)
+- Instantly convert course names, such as: هوش مصنوعی to %هوش%مصنوع%
+- Automatically convert course codes and captchas to Latin digits (so you can almost eliminate the need to switch the keyboard from Persian to English)
+- Change "items per page" to your desired value (no longer need to manually change it every time the page is refreshed)
+- Select all radio options at once on the "ارزشیابی اساتید" page
+  - ![](https://raw.githubusercontent.com/amirrezap/amirrezap.github.io/main/amozeshyar-helper/assets/studentProffEvaluation.gif =600x)
 - Lightweight and fast
 - Open source
