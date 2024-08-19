@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/amirrezap/amirrezap.github.io/main/amozeshyar-helper/amozeshyar-helper.crx">Download For Opera</a>
+  <a href="https://github.com/amirrezap/amozeshyar-helper/releases/download/v1.0.1/amozeshyar-helper-1.0.1.crx">Download For Opera (Chromium)</a>
+  |
+  <a href="https://github.com/amirrezap/amozeshyar-helper/releases/download/v1.0.1/amozeshyar-helper-1.0.1.xpi">Download For Firefox</a>
 </p>
 
 Amozeshyar Helper is an extension that allows you to simply type the course name into Amozeshyar search inputs without having to use those weird percent signs (%). Check out the GIF below:
